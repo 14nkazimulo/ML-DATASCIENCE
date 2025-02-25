@@ -2,4 +2,4 @@ The project set to analyze a database that contains 76 attributes, but all publi
 
 The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
 
-One file has been "processed", that one containing the Cleveland database. All four unprocessed files also exist in this directory.
+
